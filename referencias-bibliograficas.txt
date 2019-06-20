@@ -1,6 +1,0 @@
-Satélite:
-https://www.cptec.inpe.br/glossario.shtml#27
-http://www.labhidro.iag.usp.br/site_iag/?page_id=754
-https://www.cnpm.embrapa.br/projetos/sat/conteudo/missao_goes.html
-Livro: Fundamentos de tecnologia espacial
-http://meteorologia.florianopolis.ifsc.edu.br/formularioPI/arquivos_de_usuario/20051D.pdf

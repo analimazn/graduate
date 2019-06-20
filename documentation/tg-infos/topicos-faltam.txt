@@ -1,0 +1,21 @@
+
+2.6. GEONETCAST 19
+2.10. Redes Neurais 19
+2.11. Python    19
+2.12. Tensorflow    19
+2.13. Autoencoders  
+
+----------------
+proximo semestre:
+2.7. Formato dos arquivos armazenados   19
+2.7.1. NetCDF    19
+2.7.2. PNG   19
+2.8. Neurônios  19
+2.9. Algoritmo neural   19
+2.3.4.1. Infravermelho  19
+2.3.4.2. Visível    19
+2.3.4.3. Vapor d’água   19
+
+- espectro eletromagnético (incluir figura)
+- algoritmos de redes neurais utilizados
+- fórmulas dos canais
