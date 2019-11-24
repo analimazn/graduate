@@ -1,0 +1,107 @@
+Cap 1: 
+	Problema - Problema a ser resolvido
+	Motivação - Citações
+	Metodologia - Qualitativo/Quantitativo/Exploratório	
+	Objetivo
+
+* Descrever brevemente os próximos capítulos
+
+Cap 2:
+	Especificar os tópicos para solucionar o problema
+	Trabalhos relacionados
+
+Cap 3:
+	Desenvolvimento
+	Arquitetura:	- Diagrama com o conteúdo do sistema
+	Banco de dados: - Modelo
+			- Dicionário de Dados
+				Tabela: O que armazena
+				Coluna: O que armazena
+			
+	Back-end:	- Diagrama de classes
+	Front-end:	- Telas, código 
+	
+	* Código que realmente é importante, não utilizar imagens, utilizar tipo Algoritmo (tabela sem 		bordas, pesquisar na ABNT)
+	Explicar o código utilizando numeração
+	Ex: - Linha 2 a 5: ...
+	    - Linha 10: ...
+
+	* Não tem muito texto		
+
+
+Apresentação: 
+- Não tem ponto
+- Imagem que vai na apresentação precisa ir no trabalho
+
+
+Introdução:
+- Cliente
+- Problema
+- Objetivos
+
+Capítulo 2:
+- Mínimo para entender a apresentação / 10 min
+
+Dev
+- Arquitetura 
+
+Resultados
+- Vídeo
+- Gŕaficos
+- Estatísticas
+
+-> Levar página para colher assinaturas
+-> Montar planilha com as correções
+	-> Pag
+	-> Correção
+	-> Prof
+	-> OK
+
+github fatex / latex / latax
+
+-> Montar referencas e citaçao
+citeonline
+cite
+
+- Linha de treino alta na acurácia e linha de validação baixa, sinal de overfitting (a rede entende melhor o treino do que a validação)
+- Linha de treino menor que a linha de perda da validação, sinal de overfitting (a rede entende melhor o treino do que a validação)
+
+IR
+	Tempo de processamento:
+	Uso da memória durante o processamento:
+	Memória da máquina antes do processamento:
+	Memória da máquina depois do processamento:
+	Modelo testado com imagem similar:
+	Modelo testado com imagem diferente:
+	Recorte de imagem com zoom para verificar qualidade:
+WV
+	Tempo de processamento:
+	Uso da memória durante o processamento:
+	Memória da máquina antes do processamento:
+	Memória da máquina depois do processamento:
+	Modelo testado com imagem similar:
+	Modelo testado com imagem diferente:
+	Recorte de imagem com zoom para verificar qualidade:
+
+VIS
+	Tempo de processamento:
+	Uso da memória durante o processamento:
+	Memória da máquina antes do processamento:
+	Memória da máquina depois do processamento:
+	Modelo testado com imagem similar:
+	Modelo testado com imagem diferente:
+	Recorte de imagem com zoom para verificar qualidade:
+
+- Escrever sobre o tempo de resposta
+- Escrever sobre optmizer, activation, loss (funções adam, binary_crossentropy, ...)
+
+- verificar tamanho e informações da imagem inicial
+- Aplicar zoom em partes da imagem original e compressada para verificar se a intensidade está boa
+- Aplicar código para verificar diferenças entre as imagens
+- Aplicar código para verificar pontos em comum
+- verificar tamanho e informações do resultado do autoencoder
+
+- testar com 3 imagens de tamanho pequeno / médio / grande
+
+
+

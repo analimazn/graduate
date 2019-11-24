@@ -8,6 +8,8 @@ proximo semestre:
 - fórmulas dos canais
 2.7. Formato dos arquivos armazenados   19
 2.7.1. NetCDF    19
+
+
 2.7.2. PNG   19
 
 2.10. Redes Neurais 19
