@@ -1,4 +1,0 @@
-source ~/.zshrc
-(base) -> usar pip se estiver com isso na frente após o source
-anaconda-navigator
-conda deactivate
